@@ -1,0 +1,10 @@
+-- HackerRank
+-- Basic SELECT
+-- Revising the Select Query 1
+-- Easy
+
+SELECT *
+  FROM CITY
+ WHERE COUNTRYCODE = 'USA' 
+   AND POPULATION > 100000
+;
